@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Testing & cache
+.pytest_cache/
+.coverage
+htmlcov/
+cache/
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Legacy DB
+lumosnav.db
